@@ -52,12 +52,13 @@ To be updated
 
 ###INTERESTS
 
-- Hiking
-  - I have climbed Mt Kilimanjaro, Everest Base Camp and the Three Peaks Challenge for charity, fundraising £3000 for [Childreach International](https://www.childreach.org.uk/) in 2010 and helping to raise £10,000 for [Zurich Cares](https://www.zurich.co.uk/zurichcommunitytrust/who-we-help/partners-and-programmes/) in 2009.
-  - I am training to run the London Marathon in 2017.
-- Web & Hyper-Comics 
-  - I have presented original research at [Comics Forum](https://comicsforum.org/), the UK's leading academic conference in Comics Studies.
-  - I enjoy creative writing & blogging, and in my spare time am keen to explore the medium using Web & AR technologies.
-- Learning
-  - I am an avid researcher and am currently studying to reach an A-level standard in Mathematics.
-- Travel
+#### Hiking
+- I have climbed Mt Kilimanjaro, Everest Base Camp and the Three Peaks Challenge for charity, fundraising £3000 for [Childreach International](https://www.childreach.org.uk/) in 2010 and helping to raise £10,000 for [Zurich Cares](https://www.zurich.co.uk/zurichcommunitytrust/who-we-help/partners-and-programmes/) in 2009.
+- I am training to run the London Marathon in 2017.
+
+#### Web & Hyper-Comics 
+- I have presented original research at [Comics Forum](https://comicsforum.org/), the UK's leading academic conference in Comics Studies. 
+- I enjoy creative writing & blogging, and in my spare time am keen to explore the medium using Web & AR technologies.
+
+#### Learning
+- I am an avid researcher and am currently studying to reach an A-level standard in Mathematics.
