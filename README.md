@@ -1,5 +1,7 @@
 # CV - Bradley Reeder
 
+I am a full-stack Javascript developer looking for work in London, UK. I am currently studying and freelancing at Founders & Coders C.I.C, a highly-selective sixteen week coding bootcamp. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
+
 ### SKILLS
 
 I have been working on a variety of projects for clients, using the following technologies:
@@ -25,9 +27,20 @@ To be updated
 ---
 
 ###EDUCATION
-- BA Hons History 1:1  (Sep 2009 - July 2012) - University of Southampton
-- MA English Language and Literature/Letters Distinction (Sep 2012 - Sep 2013) - University of Southampton
 
+####University of Southampton 
+##### Sep 2009 - Sep 2013
+- BA Hons History - First Class Honours
+- MA English Language and Literature/Letters - Distinction
+
+####Cirencester College
+##### September 2006 - July 2008
+- A2: Law - A, History - A, General Studies - A, English Language and Literature - B
+- AS: Mathematics - C
+
+####Greendown Community School
+##### September 2001 - June 2006
+- GCSEs: 3 As, 7 Bs, 2 Cs
 
 ---
 ###CONTACT
