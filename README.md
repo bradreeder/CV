@@ -51,3 +51,12 @@ To be updated
 ---
 
 ###INTERESTS
+
+- Learning
+  - I am an avid researcher and am currently studying to reach an A-level standard in Mathematics. 
+- Hiking 
+  - I have climbed Mt Kilimanjaro and Everest Base Camp for charity, fundraising £3000 for [Childreach International](https://www.childreach.org.uk/) in 2010.
+  - I am training to run the London Marathon in 2018.
+- Web & Hyper-Comics 
+  - I have presented original research at [Comics Forum](https://comicsforum.org/), the UK's leading academic conference in Comics Studies.
+  - I enjoy creative writing & blogging, and in my spare time am keen to explore the medium using web & AR technologies. 
