@@ -59,4 +59,4 @@ To be updated
   - I am training to run the London Marathon in 2018.
 - Web & Hyper-Comics 
   - I have presented original research at [Comics Forum](https://comicsforum.org/), the UK's leading academic conference in Comics Studies.
-  - I enjoy creative writing & blogging, and in my spare time am keen to explore the medium using web & AR technologies. 
+  - I enjoy creative writing & blogging, and in my spare time am keen to explore the medium using Web & AR technologies. 
