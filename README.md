@@ -1,6 +1,6 @@
 # CV - Bradley Reeder
 
-I am a full-stack Javascript developer looking for work in London, UK. I am currently studying and freelancing at Founders & Coders C.I.C, a highly-selective sixteen week coding bootcamp. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
+I am a full-stack Javascript developer looking for work in London, UK. I am currently freelancing and studying at Founders & Coders C.I.C, a highly-selective sixteen week coding bootcamp. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
 
 ### SKILLS
 
@@ -23,6 +23,20 @@ To be updated
 ---
 
 ### EXPERIENCE
+
+<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">
+
+#### Full Stack Freelance Developer 
+##### Aug 2016 - Present
+
+I worked on MVPs and projects to create web applications for the clients detailed above.
+
+#### 10-Week Intensive Web Development Course
+##### May 2016 - Aug 2016
+
+- In addition to the skills outlined, I learned agile methodologies, pair programming, and test driven development.
+- I helped run the course at Founders & Coders by managing and creating learning materials, teaching the curriculum, and mentoring.
+- I helped run Founders & Coders meetups for beginners to programming.
 
 ---
 
