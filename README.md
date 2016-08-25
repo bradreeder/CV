@@ -29,7 +29,7 @@ To be updated
 #### Full Stack Javascript Developer 
 ##### Aug 2016 - Present
 
-I worked on MVPs and projects to create web applications for the clients detailed above.
+I worked on MVPs and web applications and helped run design workshops for the clients detailed above.
 
 #### 10-Week Intensive Web Development Course
 ##### May 2016 - Aug 2016
