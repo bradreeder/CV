@@ -8,17 +8,33 @@ I have been working on a variety of projects for clients, using the following te
 
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| Javascript| Hapi.js              | Tape/Tap  | Git          | PostgreSQL|
+| Javascript| Hapi.js              | Tape/Tap  | Git/ Github          | PostgreSQL|
 | Node.js   | React.js             | QUnit     | Linux CL          | Redis   |
-| HTML5     | jQuery          | Jasmine     | TravisCI |  |
-| CSS3, Sass     | Bootstrap              |       | Heroku  | |
-| Markdown       |         |   | Handlebars    | |
+| HTML5     | jQuery          | Jasmine     | npm | Cache/ Service Workers | 
+| CSS3, Sass     | Bootstrap              |   TravisCI    | Heroku  | |
+| Markdown       | Materialize        |   | Handlebars    | |
 
 ---
 
 ### PROJECTS
 
-To be updated
+#### Anna Freud Centre
+
+[Github](https://github.com/CYPIAPT-LNDSE/breathing-with-kitty) | [Anna Freud Centre](http://www.annafreud.org/)
+
+I worked in a small team building a progressive web application aimed at young people with generalised anxiety disorders. The app improves resilience from stress by guiding the user through a variety of breathing and relaxation techniques, demonstrated using SVG and Greensock.js animations. 
+
+#### Worthwhile
+
+[Github](https://github.com/worthwhile-charity/hack-day) | [Worthwhile](http://www.worthwhile.org.uk/)
+
+I helped build a design prototype for Worthwhile. The web application automates the process of generating and issuing contracts and invoices for clients who find a job through the charity, using handlebars.js for templating.
+
+#### SaferTogether
+
+[Github](https://github.com/saferTogether/saferTogether) | (SaferTogether)[http://safertogether.org.uk/]
+
+I helped build a design prototype of a risk assessment survey targeted at victims of domestic abuse. As a project manager, my additional responsibilities included managing communications with the product owners, guiding them through user testing, and ensuring agile techniques were followed.
 
 ---
 
@@ -76,3 +92,5 @@ I worked on MVPs and web applications and helped run design workshops for the cl
 
 #### Learning
 - I am an avid researcher and am currently studying to reach an A-level standard in Mathematics.
+- I regularly coach beginners to programming at [codebar](https://codebar.io/).
+- I have gained work experience in a number of different environments to fund my studies.
