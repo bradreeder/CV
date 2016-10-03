@@ -32,7 +32,7 @@ I helped build a design prototype for Worthwhile. The web application automates 
 
 #### SaferTogether
 
-[Github](https://github.com/saferTogether/saferTogether) | (SaferTogether)[http://safertogether.org.uk/]
+[Github](https://github.com/saferTogether/saferTogether) | [SaferTogether](http://safertogether.org.uk/)
 
 I helped build a design prototype of a risk assessment survey targeted at victims of domestic abuse. As a project manager, my additional responsibilities included managing communications with the product owners, guiding them through user testing, and ensuring agile techniques were followed.
 
