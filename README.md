@@ -28,7 +28,7 @@ I worked in a small team building a progressive web application aimed at young p
 
 [Github](https://github.com/worthwhile-charity/hack-day) | [Worthwhile](http://www.worthwhile.org.uk/)
 
-I helped build a design prototype for Worthwhile. The web application automates the process of generating and issuing contracts and invoices for clients who find a job through the charity, using handlebars.js for templating.
+I helped build a design prototype for Worthwhile that automates the process of generating and issuing contracts and invoices for clients who find a job through the charity, using handlebars.js for templating.
 
 #### SaferTogether
 
