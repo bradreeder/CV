@@ -91,6 +91,6 @@ I worked on MVPs and web applications and helped run design workshops for the cl
 - I enjoy creative writing & blogging, and in my spare time am keen to explore the medium using Web & AR technologies.
 
 #### Learning
-- I am an avid researcher with broad interests and am currently studying to reach an A-level standard in Mathematics.
+- I am an avid researcher and am currently studying to reach an A-level standard in Mathematics.
 - I regularly coach beginners to programming at [codebar](https://codebar.io/).
 - I have gained work experience in a number of different environments to fund my studies.
