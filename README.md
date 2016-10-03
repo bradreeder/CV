@@ -13,6 +13,7 @@ I have been working on a variety of projects for clients, using the following te
 | HTML5     | jQuery          | Jasmine     | npm | Cache/ Service Workers | 
 | CSS3, Sass     | Bootstrap              |   TravisCI    | Heroku  | |
 | Markdown       | Materialize        |   | Handlebars    | |
+| SQL | | | | |
 
 ---
 
