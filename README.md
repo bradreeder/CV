@@ -10,7 +10,7 @@ I have been working on a variety of projects for clients, using the following te
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
 | Javascript| Hapi.js              | Tape/Tap  | Git/ Github          | PostgreSQL|
 | Node.js   | React.js             | QUnit     | Linux CL          | Redis   |
-| HTML5     | jQuery          | Jasmine     | npm | Cache/ Service Workers | 
+| HTML5     | jQuery          | Jasmine     | npm | App Cache/ Service Workers | 
 | CSS3, Sass     | Bootstrap              |   TravisCI    | Heroku  | |
 | Markdown       | Materialize        |   | Handlebars    | |
 | SQL | | | | |
@@ -46,7 +46,16 @@ I helped build a design prototype of a risk assessment survey targeted at victim
 #### Full Stack Javascript Developer 
 ##### Aug 2016 - Present
 
-I worked on MVPs and web applications and helped run design workshops for the clients detailed above.
+I have worked on MVPs and web applications and helped run design and user-testing workshops for the clients detailed above.
+
+#### Course Facilitator
+##### Nov 2016 - Present
+
+I oversee the full-stack javascript curriculum at Founders & Coders. My responsibilities include:
+
+- Maintaining and creating teaching resources.
+- Organising and leading curriculum planning.
+- Managing our mentors and ensuring student feedback is followed through.
 
 #### 10-Week Intensive Web Development Course
 ##### May 2016 - Aug 2016
