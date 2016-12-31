@@ -19,6 +19,12 @@ I have been working on a variety of projects for clients, using the following te
 
 ### PROJECTS
 
+#### Downing LLP
+
+[Downing LLP](https://www.downingcrowd.co.uk/)
+
+I worked with Downing LLP for three weeks working as a front-end developer on the last sprint of a website built in Angular.js for their crowdfunding platform.
+
 #### Anna Freud Centre
 
 [Github](https://github.com/CYPIAPT-LNDSE/breathing-with-kitty) | [Anna Freud Centre](http://www.annafreud.org/)
@@ -43,19 +49,21 @@ I helped build a design prototype of a risk assessment survey targeted at victim
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">
 
+#### Course Facilitator
+##### Nov 2016 - Present
+
+I oversee the full-stack javascript curriculum at Founders & Coders. My responsibilities involve:
+
+- Designing the curriculum
+- Analysing our model & leading reforms
+- Organising & leading curriculum planning
+- Maintaining & creating teaching resources
+- Managing our mentors & ensuring student feedback is followed through.
+
 #### Full Stack Javascript Developer 
 ##### Aug 2016 - Present
 
 I have worked on MVPs and web applications and helped run design and user-testing workshops for the clients detailed above.
-
-#### Course Facilitator
-##### Nov 2016 - Present
-
-I oversee the full-stack javascript curriculum at Founders & Coders. My responsibilities include:
-
-- Maintaining and creating teaching resources.
-- Organising and leading curriculum planning.
-- Managing our mentors and ensuring student feedback is followed through.
 
 #### 10-Week Intensive Web Development Course
 ##### May 2016 - Aug 2016
