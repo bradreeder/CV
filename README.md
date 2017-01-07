@@ -54,7 +54,7 @@ I helped build a design prototype of a risk assessment survey targeted at victim
 
 I oversee the full-stack javascript curriculum at Founders & Coders. My responsibilities involve:
 
-- Designing the curriculum
+- Helping design the curriculum
 - Analysing our model & implementing reforms
 - Organising & leading curriculum planning
 - Maintaining & creating teaching resources
