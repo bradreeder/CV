@@ -74,31 +74,30 @@ I have worked on MVPs and web applications and helped run design and user-testin
 
 ---
 
-###EDUCATION
+### EDUCATION
 
-####University of Southampton 
+#### University of Southampton 
 ##### Sep 2009 - Sep 2013
 - BA Hons History - First Class Honours
 - MA English Language and Literature/Letters - Distinction
 
-####Cirencester College
+#### Cirencester College
 ##### September 2006 - July 2008
 - A2: Law - A, History - A, General Studies - A, English Language and Literature - B
 - AS: Mathematics - C
 
-####Greendown Community School
+#### Greendown Community School
 ##### September 2001 - June 2006
 - GCSEs: 3 As, 7 Bs, 2 Cs
 
 ---
-###CONTACT
+### CONTACT
 
-[LinkedIn](https://uk.linkedin.com/in/bradley-reeder-246623119) | [bradjohnreeder@gmail.com](mailto:bradjohnreeder@gmail.com) |
-[Codewars](https://www.codewars.com/users/Aquila) | [Github](https://github.com/bradreeder) | [Codecademy](https://www.codecademy.com/brad.reeder)
+[LinkedIn](https://uk.linkedin.com/in/bradley-reeder-246623119) | [bradjohnreeder@gmail.com](mailto:bradjohnreeder@gmail.com) | [Github](https://github.com/bradreeder)
 
 ---
 
-###INTERESTS
+### INTERESTS
 
 #### Hiking
 - I have climbed Mt Kilimanjaro, Everest Base Camp and the Three Peaks Challenge for charity, fundraising £3000 for [Childreach International](https://www.childreach.org.uk/) in 2010 and helping to raise £10,000 for [Zurich Cares](https://www.zurich.co.uk/zurichcommunitytrust/who-we-help/partners-and-programmes/) in 2009.
