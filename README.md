@@ -1,10 +1,10 @@
 # CV - Bradley Reeder
 
-I am a full-stack Javascript developer looking for work in London, UK. I am currently freelancing and studying at [Founders & Coders C.I.C](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
+I am a UX Researcher looking for work in London, UK. I am currently freelancing and studying at [Founders & Coders C.I.C](http://www.foundersandcoders.com/), a highly-selective sixteen week web development bootcamp. I am a passionate learner and problem solver, eager to explore new methodologies and learn with like-minded individuals.
 
 ### SKILLS
 
-I have been working on a variety of projects for clients, using the following technologies:
+I have experience working with the following technologies and am quick to pick up new tools and software:
 
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
@@ -13,35 +13,7 @@ I have been working on a variety of projects for clients, using the following te
 | HTML5     | jQuery          | Jasmine     | npm | App Cache/ Service Workers | 
 | CSS3, Sass     | Bootstrap              |   TravisCI    | Heroku  | |
 | Markdown       | Materialize        |   | Handlebars    | |
-| SQL | | | | |
-
----
-
-### PROJECTS
-
-#### Downing LLP
-
-[Downing LLP](https://www.downingcrowd.co.uk/)
-
-I worked with Downing LLP for three weeks working as a front-end developer on the last sprint of a website built in Angular.js for their crowdfunding platform.
-
-#### Anna Freud Centre
-
-[Github](https://github.com/CYPIAPT-LNDSE/breathing-with-kitty) | [Anna Freud Centre](http://www.annafreud.org/)
-
-I worked in a small team building a progressive web application aimed at young people with generalised anxiety disorders. The app improves resilience from stress by guiding the user through a variety of breathing and relaxation techniques, demonstrated using SVG and Greensock.js animations. 
-
-#### Worthwhile
-
-[Github](https://github.com/worthwhile-charity/hack-day) | [Worthwhile](http://www.worthwhile.org.uk/)
-
-I helped build a design prototype for Worthwhile that automates the process of generating and issuing contracts and invoices for clients who find a job through the charity, using handlebars.js for templating.
-
-#### SaferTogether
-
-[Github](https://github.com/saferTogether/saferTogether) | [SaferTogether](http://safertogether.org.uk/)
-
-I helped build a design prototype of a risk assessment survey targeted at victims of domestic abuse. As a project manager, my additional responsibilities included managing communications with the product owners, guiding them through user testing, and ensuring agile practices were followed.
+| SQL | Angular.js | | Progressive Wep Apps | |
 
 ---
 
@@ -49,26 +21,40 @@ I helped build a design prototype of a risk assessment survey targeted at victim
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">
 
+#### UX Researcher
+##### Jun 2017 - Present
+
+I worked independently for the digital agency [Outlandish](https://outlandish.com/) as a UX Researcher. My brief was to diagnose the growth potential, collect feedback on application ideas, and mapping the relationships and skills of a young network of digital co-operatives called the [Cooperative Technologists](https://www.coops.tech/). The role involved:
+
+- Showing initiative in defining and conducting my own research plan utilising secondary research, shadowing & observation, interviewing, surveying, and user-testing methods.
+- Demonstrating strong diplomacy, synthesis, and empathy skills in identifying and fairly representing key needs and problem areas in the network from data across 25 different organisations.
+- Reporting my findings with recommended solutions and presenting it at the planning meeting for the network's Annual General Meeting. My recommendations were well received and I have since been invited to have a speaking slot at their AGM in November.
+
 #### Course Facilitator
-##### Nov 2016 - Present
+##### Nov 2016 - Jun 2017
 
-I oversee the full-stack javascript curriculum at Founders & Coders. My responsibilities involve:
+I took on a leadership role overseeing the curriculum for the Founders & Coders web development bootcamp in London. My responsibilities included:
 
-- Helping design the curriculum
-- Analysing our model & implementing reforms
-- Organising & leading curriculum planning
-- Maintaining & creating teaching resources
-- Managing our mentors & ensuring student feedback is followed through.
+- Analysing our model & implementing key reforms.
+- Iteratively improving the curriculum negotiating the feedback of students, mentors, and alumni.
+- Facilitating curriculum planning & weekly agile ceremonies, including retrospectives and project demos.
+- Facilitating our mentors & providing pastoral care to our students.
+- Maintaining & creating teaching resources. An example of a UX-focused week - taking students through design thinking, user research, prototyping, and user-testing - I co-created with our resident designer can be found [here](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/weeks-10-12/design-sprint).
+
+I'm proud to have had a lasting impact on the programme by co-authoring the organisation's open-source [master resource](https://github.com/foundersandcoders/master-reference), and through collaboratively designing the structure of the curriculum, its materials, activities and processes from a user-centred perspective.
 
 #### Full Stack Javascript Developer 
-##### Aug 2016 - Present
+##### Aug 2016 - Jun 2017
 
-I have worked on MVPs and web applications and helped run design and user-testing workshops for the clients detailed above.
+I have worked on MVPs and web applications in the Tech for Good sector using the technologies outlined above. Clients I have worked for include: [CAST](http://www.wearecast.org.uk/), [SaferTogether](http://safertogether.org.uk/), [Worthwhile](http://www.worthwhile.org.uk/), [Downing LLP](https://www.downingcrowd.co.uk/) & the [Anna Freud Centre](http://www.annafreud.org/).
+
+- I helped facilitate multiple design sprint & ideation workshops for CAST's 2016 [Digital Fellowship programme](http://www.wearecast.org.uk/files/CASTDigitalFellowship-2017informationpack.pdf), as well as for the NHS, and the Anna Freud Centre, using resources from Google Ventures and Stanford d.school's Design Thinking methodology.
+- I have remained involved with the Anna Freud Centre helping to facilitate and improve their hackathons, and have acted as scrum-master for two of its MVPs. Responsibilities included managing communications with the product owners, guiding them through user-testing, and ensuring agile practices were followed.
 
 #### 10-Week Intensive Web Development Course
 ##### May 2016 - Aug 2016
 
-- In addition to the skills outlined, I learned agile methodologies & project management, progressive web apps, pair programming, and test driven development.
+- In addition to the skills outlined, I learned agile methodologies, user-centred design, pair programming, and test-driven development with a heavy emphasis on teamwork & collaborative skills.
 - I aided in running the course at Founders & Coders by managing and creating learning materials, teaching the curriculum, and mentoring.
 - I helped run Founders & Coders meetups for beginners to programming.
 
@@ -108,6 +94,10 @@ I have worked on MVPs and web applications and helped run design and user-testin
 - I enjoy creative writing & blogging, and in my spare time am keen to explore the medium using Web & AR technologies.
 
 #### Learning
-- I am an avid researcher and am currently studying to reach an A-level standard in Mathematics.
+- I am an eternal student with broad interests. I'm currently studying IDEO's human-centred design course online to follow-up on my research for the Cooperative Technologists.
 - I regularly coach beginners to programming at [codebar](https://codebar.io/).
 - I have gained work experience in a number of different environments to fund my studies.
+
+### REFERENCES
+
+References available upon request.
