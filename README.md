@@ -2,6 +2,8 @@
 
 I am a UX Researcher looking for work in London, UK. I am currently freelancing and studying at [Founders & Coders C.I.C](http://www.foundersandcoders.com/), a highly-selective sixteen week web development bootcamp. I am a passionate learner and problem solver, eager to explore new methodologies and learn with like-minded individuals.
 
+---
+
 ### SKILLS
 
 I have experience working with the following technologies and am quick to pick up new tools and software:
@@ -24,11 +26,11 @@ I have experience working with the following technologies and am quick to pick u
 #### UX Researcher
 ##### Jun 2017 - Present
 
-I worked independently for the digital agency [Outlandish](https://outlandish.com/) as a UX Researcher. My brief was to diagnose the growth potential, collect feedback on application ideas, and map the relationships and skills of a young network of digital co-operatives called the [Cooperative Technologists](https://www.coops.tech/). The role involved:
+I worked independently for the digital agency [Outlandish](https://outlandish.com/) as a UX Researcher. My brief was to collect feedback on application ideas, diagnose the growth potential, and map the relationships and skills of a young network of digital co-operatives called the [Cooperative Technologists](https://www.coops.tech/). The role involved:
 
 - Showing initiative in defining and conducting my own research plan utilising secondary research, shadowing & observation, interviewing, surveying, and user-testing methods.
-- Demonstrating strong diplomacy, synthesis, and empathy skills in identifying and fairly representing key needs and problem areas in the network from data across 25 different organisations.
-- Reporting my findings with recommended solutions and presenting it at the planning meeting for the network's Annual General Meeting. My recommendations were well received and I have since been invited to have a speaking slot at their AGM in November.
+- Demonstrating strong diplomacy, empathy, and synthesis skills in identifying and fairly representing key needs and problem areas in the network from data across 25 different organisations.
+- [Reporting my findings](https://docs.google.com/document/d/1s6NEu8lrcT7F0OhfSErQJImlAqA9ekJf8YoPzi20FV8/edit) with recommended solutions and presenting it at the planning meeting for the network's Annual General Meeting. My recommendations were well received and I have since been invited to have a speaking slot at their AGM in November.
 
 #### Course Facilitator
 ##### Nov 2016 - Jun 2017
@@ -36,10 +38,10 @@ I worked independently for the digital agency [Outlandish](https://outlandish.co
 I took on a leadership role overseeing the curriculum for the Founders & Coders web development bootcamp in London. My responsibilities included:
 
 - Analysing our model & implementing key reforms.
-- Iteratively improving the curriculum negotiating the feedback of students, mentors, and alumni.
+- Iteratively improving the curriculum negotiating the feedback of students, alumni, and staff.
 - Facilitating curriculum planning & weekly agile ceremonies, including retrospectives and project demos.
 - Facilitating our mentors & providing pastoral care to our students.
-- Maintaining & creating teaching resources. An example of a UX-focused week - taking students through design thinking, user research, prototyping, and user-testing - I co-created with our resident designer can be found [here](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/weeks-10-12/design-sprint).
+- Maintaining & creating teaching resources. For example, a UX-focused week - taking students through design thinking, user research, prototyping, and user-testing - I co-created with our resident designer can be found [here](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/weeks-10-12/design-sprint).
 
 I'm proud to have had a lasting impact on the programme by co-authoring the organisation's open-source [master resource](https://github.com/foundersandcoders/master-reference), and through collaboratively designing the structure of the curriculum, its materials, activities and processes from a user-centred perspective.
 
