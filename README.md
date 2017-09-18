@@ -24,7 +24,7 @@ I have experience working with the following technologies and am quick to pick u
 #### UX Researcher
 ##### Jun 2017 - Present
 
-I worked independently for the digital agency [Outlandish](https://outlandish.com/) as a UX Researcher. My brief was to diagnose the growth potential, collect feedback on application ideas, and mapping the relationships and skills of a young network of digital co-operatives called the [Cooperative Technologists](https://www.coops.tech/). The role involved:
+I worked independently for the digital agency [Outlandish](https://outlandish.com/) as a UX Researcher. My brief was to diagnose the growth potential, collect feedback on application ideas, and map the relationships and skills of a young network of digital co-operatives called the [Cooperative Technologists](https://www.coops.tech/). The role involved:
 
 - Showing initiative in defining and conducting my own research plan utilising secondary research, shadowing & observation, interviewing, surveying, and user-testing methods.
 - Demonstrating strong diplomacy, synthesis, and empathy skills in identifying and fairly representing key needs and problem areas in the network from data across 25 different organisations.
