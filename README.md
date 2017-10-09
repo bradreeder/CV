@@ -1,6 +1,6 @@
 # CV - Bradley Reeder
 
-I am a UX Researcher looking for work in London, UK. I am currently freelancing and studying at [Founders & Coders C.I.C](http://www.foundersandcoders.com/), a highly-selective sixteen week web development bootcamp. I am a passionate learner and problem solver, eager to explore new methodologies and learn with like-minded individuals.
+I am a UX Researcher looking for work in London, UK. I am currently freelancing and studying at [Founders & Coders C.I.C](http://www.foundersandcoders.com/), a highly-selective sixteen week web development school. I am a natural empath and independent learner with a background in facilitation and collaborative environments. I am eager to explore all aspects of user-centred and UX design and learn with like minded individuals. 
 
 ---
 
@@ -31,13 +31,13 @@ I took on a leadership role overseeing the curriculum for the [Founders & Coders
 - Analysing its model & implementing key reforms. Of note, I co-authored the organisation's open-source [master resource](https://github.com/foundersandcoders/master-reference) which has since been used to open schools in Nazareth & Gaza.
 - Iteratively improving the curriculum negotiating the feedback of, and in collaboration with, students, alumni, and staff.
 - Facilitating curriculum planning & weekly agile ceremonies, including retrospectives and project demos.
-- Facilitating our mentors & providing pastoral care to our students.
-- Maintaining & creating teaching resources. Of note, I created and facilitated a UX-focused week - taking students through design thinking, user research, ideation, prototyping, and user-testing - with our resident designer that can be found [here](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/weeks-10-12/design-sprint).
+- Supporting mentors & providing pastoral care to students.
+- Maintaining & creating teaching resources. Of note, I created and facilitated a UX-focused week - taking students through design thinking, user research, ideation, prototyping, and user-testing - with the resident designer that can be found [here](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/weeks-10-12/design-sprint).
 
 #### Full Stack Javascript Developer 
 ##### Aug 2016 - Jun 2017
 
-I have worked on MVPs and web applications, largely in the Tech for Good sector, using the technologies outlined below. Clients I have worked for include: [CAST](http://www.wearecast.org.uk/), [SaferTogether](http://safertogether.org.uk/), [Worthwhile](http://www.worthwhile.org.uk/), [Downing LLP](https://www.downingcrowd.co.uk/) & the [Anna Freud Centre](http://www.annafreud.org/).
+I have worked on MVPs, prototypes, and web applications, largely in the Tech for Good sector, using the technologies outlined below. Clients I have worked for include: [CAST](http://www.wearecast.org.uk/), [SaferTogether](http://safertogether.org.uk/), [Worthwhile](http://www.worthwhile.org.uk/), [Downing LLP](https://www.downingcrowd.co.uk/) & the [Anna Freud Centre](http://www.annafreud.org/).
 
 - I helped facilitate multiple design sprint & ideation workshops for CAST's 2016 [Digital Fellowship programme](http://www.wearecast.org.uk/files/CASTDigitalFellowship-2017informationpack.pdf), as well as for the NHS, and the Anna Freud Centre, using resources from Google Ventures and Stanford d.school's Design Thinking methodology.
 - I have remained involved with the Anna Freud Centre helping to facilitate and improve their hackathons, and have acted as scrum-master for two of its MVPs. Responsibilities included managing communications with the product owners, guiding them through user-testing, and ensuring agile practices were followed.
