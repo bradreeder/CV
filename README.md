@@ -45,7 +45,7 @@ I have worked on MVPs, prototypes, and web applications, largely in the Tech for
 #### 10-Week Intensive Web Development Course
 ##### May 2016 - Aug 2016
 
-- In addition to the skills outlined below, I learned agile methodologies, user-centred design, prototyping with Figma and Invision, pair programming, and test-driven development with a heavy emphasis on teamwork and collaborative skills.
+- In addition to the skills outlined below, I learned agile methodologies, user-centred design, user-testing, prototyping with Figma and Invision, pair programming, and test-driven development with a heavy emphasis on teamwork and collaborative skills.
 - I aided in running the next course at Founders & Coders by managing and creating learning materials, teaching the curriculum, and mentoring.
 - I helped run Founders & Coders meetups for beginners to programming.
 
