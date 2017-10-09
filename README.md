@@ -19,7 +19,7 @@ I completed a programme on UX Research & Strategy, alongside IDEO's Human Centre
 I worked as an independent contractor for the digital agency [Outlandish](https://outlandish.com/) as a UX Researcher. My brief was to collect feedback on application ideas, diagnose the growth potential, and map the relationships and skills of a young network of digital co-operatives called the [Cooperative Technologists](https://www.coops.tech/). The role involved:
 
 - Showing initiative in defining and conducting my own research plan utilising secondary research, observation, interviewing, surveying, and user-testing methods.
-- Demonstrating strong diplomacy, empathy, and synthesis skills in identifying and fairly representing key needs and problem areas in the network from data across 25 different organisations.
+- Demonstrating strong mediation, empathy, and synthesis skills in identifying and fairly representing key needs and problem areas in the network from data across 25 different organisations.
 - [Reporting my findings](https://docs.google.com/document/d/1s6NEu8lrcT7F0OhfSErQJImlAqA9ekJf8YoPzi20FV8/edit) with recommended solutions and presenting it at the planning meeting for the network's Annual General Meeting. My recommendations were well received and I have since been invited to have a speaking slot at their AGM in November.
 
 ### Founders & Coders
