@@ -28,7 +28,7 @@ I worked as an independent contractor for the digital agency [Outlandish](https:
 
 I took on a leadership role overseeing the curriculum for the [Founders & Coders](https://foundersandcoders.com/) web development bootcamp in London. My responsibilities included:
 
-- Analysing its model & implementing key reforms. Of note, I co-authored the organisation's open-source [master resource](https://github.com/foundersandcoders/master-reference) which has since been used to open schools in Nazareth & Gaza.
+- Analysing its model & implementing key reforms. Of note, I co-authored and am a main contributor to the organisation's open-source [master resource](https://github.com/foundersandcoders/master-reference) which has since been used to open schools in Nazareth & Gaza.
 - Iteratively improving the curriculum negotiating the feedback of, and in collaboration with, students, alumni, and staff.
 - Facilitating curriculum planning & weekly agile ceremonies, including retrospectives and project demos.
 - Supporting mentors & providing pastoral care to students.
