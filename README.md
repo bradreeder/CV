@@ -1,6 +1,6 @@
-# CV - Bradley Reeder
+# Bradley Reeder - UX Researcher
 
-I am a UX Researcher looking for work in London, UK. I am currently freelancing and studying at [Founders & Coders C.I.C](http://www.foundersandcoders.com/), a highly-selective sixteen week web development school. I am a natural empath and independent learner with a background in facilitation and collaborative environments. I am eager to explore all aspects of user-centred and UX design and learn with like minded individuals. 
+I am a natural empath and independent learner with experience across web development, user research, facilitation, teaching and collaborative environments. Currently I freelance and study as a member of [Founders & Coders C.I.C](http://www.foundersandcoders.com/), a highly-selective sixteen week web development school. My current motivations are to explore all aspects of user-centred and UX design in service of solving real world problems. 
 
 ---
 
