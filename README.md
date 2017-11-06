@@ -71,7 +71,7 @@ I completed a programme on UX Research & Strategy, alongside IDEO's Human Centre
 - I aided in running the next course at Founders & Coders by creating learning materials, teaching the curriculum, and mentoring.
 - I helped run Founders & Coders meetups for beginners to programming.
 
-#### University of Southampton 
+### University of Southampton 
 ##### Sep 2009 - Sep 2013
 - BA Hons History - First Class Honours
 - MA English Language and Literature/Letters - Distinction
