@@ -1,6 +1,6 @@
 # Bradley Reeder - UX Researcher
 
-I am a UX Researcher with multidisciplinary experience across web development, user research, facilitation, teaching and collaborative working. Currently I freelance and study as a member of [Founders & Coders C.I.C](http://www.foundersandcoders.com/), a highly-selective sixteen week web development school. I am a systems-thinker with a strong interest in service design and community building. I value continuous learning, collaborative working, and user-centred environments, and aspire to explore all aspects of UX design with likeminded people. 
+I am a UX Researcher with multidisciplinary experience across web development, user research, facilitation, and teaching. Currently I freelance as a member of [Founders & Coders C.I.C](http://www.foundersandcoders.com/), a highly-selective web development school. I am a systems-thinker with a strong interest in service design and community building. I value continuous learning, collaborative working, and user-centred environments, and aspire to explore all aspects of UX design with likeminded people. 
 
 ---
 
@@ -25,7 +25,7 @@ I took on a community leadership role overseeing the curriculum for the [Founder
 - I co-authored, maintainined, and was a main contributor to, the organisation's open-source [master resource.](https://github.com/foundersandcoders/master-reference) It is now its most popular resource and has been used to build campuses in Nazareth & Gaza.
 - I steered the organisation towards an evidence-based, validated learning approach to updating its curriculum. This included iteratively facilitating curriculum planning, negotiating the feedback of, and in collaboration with, students, mentors, and staff.
 - Facilitating weekly agile ceremonies with students & mentors, including standups, retrospectives and demos.
-- Supporting mentors & providing pastoral care and troubleshooting for students.
+- Supporting mentors & providing pastoral care for students.
 - I worked with mentors and staff to re-design the second half of the programme. As a part of this, I co-created and facilitated a UX Design Sprint week - taking students through design thinking, user research, ideation, rapid prototyping, and usability testing - with the resident designers that can be found [here](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/weeks-10-12/design-sprint).
 
 #### Full Stack Javascript Developer 
@@ -40,9 +40,9 @@ I have worked on MVPs, prototypes, and web applications, largely in the Tech for
 
 ## SKILLS
 
-I am a natural empath and mediator with a systems approach to problem-solving. This enables me to find root problems in experiences, understand the needs of multiple stakeholders, and effectively communicate and work with others to identify strategies that address them. My core skillset is immersive research, a continuous learning mindset, and strong communication & presentation skills. 
+I am a natural empath, mediator, and listener. This has enabled me to find root problems in systems and experiences, understand the needs of multiple stakeholders, and effectively collaborate to identify strategies that address them. 
 
-I have experience working with the following technologies and am quick to pick up new tools and software:
+My core skillset is immersive research, a continuous learning mindset, and strong communication & presentation skills. I have experience working with the following technologies and am quick to pick up new tools and software:
 
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases | UX
 |:---------:|:--------------------:|:---------:|:------------:|:---------:| :----: |
