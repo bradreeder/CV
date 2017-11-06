@@ -45,10 +45,10 @@ I am a natural empath and mediator with a systems approach to problem-solving. T
 I have experience working with the following technologies and am quick to pick up new tools and software:
 
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases | UX
-|:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| Javascript| Hapi.js              | Tape/Tap  | Git/ Github          | PostgreSQL| Figma / Invision
-| Node.js   | React.js             | QUnit     | Linux CL          | Redis   | Google Analytics
-| HTML5     | jQuery          | Jasmine     | npm | App Cache/ Service Workers | 
+|:---------:|:--------------------:|:---------:|:------------:|:---------:| :----: |
+| Javascript| Hapi.js              | Tape/Tap  | Git/ Github          | PostgreSQL| Figma / Invision |
+| Node.js   | React.js             | QUnit     | Linux CL          | Redis   | Google Analytics |
+| HTML5     | jQuery          | Jasmine     | npm | App Cache/ Service Workers | |
 | CSS3, Sass     | Bootstrap              |   TravisCI    | Heroku  | |
 | Markdown       | Materialize        |   | Handlebars    | |
 | SQL | Angular.js | | Progressive Wep Apps | |
