@@ -14,7 +14,7 @@ I worked as an independent contractor for the digital agency [Outlandish](https:
 
 - Showing initiative in defining and conducting my own research plan utilising secondary research, observation, interviewing, surveying, and usability testing methods.
 - Demonstrating strong mediation, empathy, and synthesis skills in identifying and fairly representing key needs and problem areas in the network from data across 25 different organisations.
-- [Reporting my findings](https://docs.google.com/document/d/1s6NEu8lrcT7F0OhfSErQJImlAqA9ekJf8YoPzi20FV8/edit) with recommended solutions and presenting it at the planning meeting for the network's Annual General Meeting. My recommendations were accommodated into the AGM and I have since been invited to have a speaking slot at it in November.
+- [Reporting my findings](https://docs.google.com/document/d/1s6NEu8lrcT7F0OhfSErQJImlAqA9ekJf8YoPzi20FV8/edit) with recommended solutions and presenting it at the planning meeting for the network's Annual General Meeting. My recommendations were accommodated into the planning and I have since been invited to have a speaking slot at the AGM in November.
 
 ### Founders & Coders
 #### Course Facilitator
@@ -22,7 +22,9 @@ I worked as an independent contractor for the digital agency [Outlandish](https:
 
 I took on a community leadership role overseeing the curriculum for the [Founders & Coders](https://foundersandcoders.com/) web development campus in London. My responsibilities and accomplishments include:
 
-- I co-authored, maintainined, and was a main contributor to, the organisation's open-source [master resource.](https://github.com/foundersandcoders/master-reference) It is now its most popular resource and has been used to build campuses in Nazareth & Gaza.
+something about actively contributing to the community
+
+- I co-authored, maintainined, and was a main contributor to, the community's open-source [master resource.](https://github.com/foundersandcoders/master-reference) It is now its most popular resource and has been used to build campuses in Nazareth & Gaza.
 - I steered the organisation towards an evidence-based, validated learning approach to updating its curriculum. This included iteratively facilitating curriculum planning, negotiating the feedback of, and in collaboration with, students, mentors, and staff.
 - Facilitating weekly agile ceremonies with students & mentors, including standups, retrospectives and demos.
 - Supporting mentors & providing pastoral care for students.
@@ -61,7 +63,9 @@ My core skillset is immersive research, a continuous learning mindset, and stron
 #### UX Research & Strategy Course
 ##### Oct 2017 - Nov 2017
 
-I completed a programme on UX Research & Strategy, alongside IDEO's Human Centred Design course online, as a means of deepening my understanding of hypothesis-driven product development cycles, the design thinking methodology, and to expand my UX Research toolkit of methods, techniques and concepts.
+- With mentor supervision I deepened my understanding of hypothesis-driven product development cycles, the design thinking methodology, and expanded my UX Research toolkit of research methods and techniques. 
+- I completed a research cycle preparing a research plan, discussion guides, and recruiting participants, through to analysing & synthesising findings, ideating solutions, and prototyping & testing.
+- The findings of the research are being used to develop a web app for Founders & Coders' recruitment agency.
 
 ### Founders & Coders
 #### 16-Week Intensive Web Development Course
@@ -73,6 +77,7 @@ I completed a programme on UX Research & Strategy, alongside IDEO's Human Centre
 
 ### University of Southampton 
 ##### Sep 2009 - Sep 2013
+
 - BA Hons History - First Class Honours
 - MA English Language and Literature/Letters - Distinction
 
