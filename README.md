@@ -41,9 +41,9 @@ I have worked on MVPs, prototypes, and web applications using the technologies o
 
 ## SKILLS
 
-I am a natural empath and mediator. This has enabled me to find root problems in systems and experiences, understand the needs of multiple stakeholders, and effectively collaborate to synthesise actionable strategies that address them. 
+I am a natural empath and mediator. This has enabled me to find root problems in systems and experiences, understand the needs of context and multiple stakeholders, and effectively collaborate to synthesise strategies that address them. 
 
-My core skillset is immersive research, a continuous learning mindset, and strong communication & presentation skills. I have experience working with the following technologies and am quick to learn new tools, software, and skills:
+My core skillset is immersive research, a continuous learning mindset, and strong communication & presentation skills. I have experience working with the following technologies and am quick to learn new tools and skills:
 
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases | UX
 |:---------:|:--------------------:|:---------:|:------------:|:---------:| :----: |
