@@ -35,7 +35,7 @@ I took on a community leadership role overseeing the curriculum for the [Founder
 I have worked on MVPs, prototypes, and web applications using the technologies outlined below. Clients I have worked for include: [CAST](http://www.wearecast.org.uk/), [SaferTogether](http://safertogether.org.uk/), [Worthwhile](http://www.worthwhile.org.uk/), [Downing LLP](https://www.downingcrowd.co.uk/) & the [Anna Freud Centre](http://www.annafreud.org/).
 
 - I helped facilitate multiple Google Ventures design sprints for CAST's 2016 [Digital Fellowship programme](http://www.wearecast.org.uk/files/CASTDigitalFellowship-2017informationpack.pdf), as well as for the NHS, and the Anna Freud Centre.
-- I have facilitated and helped improve the Anna Freud Centre's regular hackathons, run training workshops on design thinking, and acted as scrum-master for two of their MVPs. Responsibilities included managing communications with the product owners, guiding them through usability testing, and ensuring agile (scrum) practices were followed.
+- I have facilitated the Anna Freud Centre's regular hackathons, run training workshops on design thinking, and acted as scrum-master for their MVPs. Responsibilities included managing communications with the product owners, guiding them through usability testing, and ensuring agile practices were followed.
 
 ---
 
