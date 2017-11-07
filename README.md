@@ -15,7 +15,7 @@ I worked as a contractor for [Outlandish](https://outlandish.com/) as a UX Resea
 
 - I showed initiative in preparing and conducting my own research plan to meet the needs of the brief utilising secondary research, observation, interviewing, surveying, and usability testing methods.
 - I demonstrated strong mediation, empathy, and synthesis skills in identifying and fairly representing key needs and problem areas in the network from data across 25 different organisations.
-- I [reported my findings](https://docs.google.com/document/d/1s6NEu8lrcT7F0OhfSErQJImlAqA9ekJf8YoPzi20FV8/edit) with recommended solutions and presented them at the planning meeting for the network's Annual General Meeting. They were well received and I have since been invited to have a speaking slot at the AGM in November.
+- I [reported my findings](https://docs.google.com/document/d/1s6NEu8lrcT7F0OhfSErQJImlAqA9ekJf8YoPzi20FV8/edit) at the planning meeting for the network's Annual General Meeting. My recommendations were well received and I have since been invited to have a speaking slot at the AGM in November.
 
 ### Founders & Coders
 #### Course Facilitator
