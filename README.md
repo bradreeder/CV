@@ -26,7 +26,7 @@ I took on a community leadership role overseeing the curriculum for the [Founder
 - Co-authored, maintained, and main contributor to the community's open-source [master resource](https://github.com/foundersandcoders/master-reference), now its most popular resource and used to build campuses in Nazareth & Gaza.
 - Steering the organisation towards a user-centred, validated learning approach to updating its curriculum. This included iteratively facilitating curriculum planning, negotiating the feedback of staff, mentors, and students.
 - Facilitating weekly agile ceremonies with students & mentors, including standups, retrospectives and demos.
-- Supporting mentors & provided pastoral care for students and working with mentors and staff to re-design the second half of the programme. As a part of this, I co-created and ran a UX Design Sprint week - taking students through design thinking, user research, ideation, rapid prototyping, and usability testing - with the resident designers that can be found [here.](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/weeks-10-12/design-sprint).
+- Supporting mentors & provided pastoral care for students and working with mentors and staff to re-design the second half of the programme. As a part of this, I co-created and ran a UX Design Sprint week - taking students through design thinking, user research, ideation, rapid prototyping, and usability testing - with the resident designers that can be found [here](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/weeks-10-12/design-sprint).
 
 #### Full Stack Javascript Developer 
 ##### Aug 2016 - Jun 2017
