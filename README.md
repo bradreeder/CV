@@ -1,7 +1,10 @@
 # Bradley Reeder - UX Researcher
-[LinkedIn](https://uk.linkedin.com/in/bradley-reeder-246623119) | [bradjohnreeder@gmail.com](mailto:bradjohnreeder@gmail.com) | [Github](https://github.com/bradreeder)
+[LinkedIn](https://uk.linkedin.com/in/bradley-reeder-246623119) | [bradjohnreeder@gmail.com](mailto:bradjohnreeder@gmail.com) | [Github](https://github.com/bradreeder) | +44 7479 507365
 
-I am a **UX Researcher** with multidisciplinary experience across **web development**, **user research**, **facilitation** and **teaching**. Currently I freelance as a member of Founders & Coders C.I.C, a highly-selective web development school. I value continuous learning, collaborative working, and user-centred environments and aspire to explore all aspects of UX and Service Design with likeminded people.
+I am a **UX professional** with multidisciplinary experience across **web development**, **user
+research**, **facilitation** and **teaching**. I value continuous learning, collaborative working,
+and user-centred environments and aspire to explore all aspects of UX and Service
+Design with likeminded people.
 
 ---
 
@@ -11,46 +14,54 @@ I am a **UX Researcher** with multidisciplinary experience across **web developm
 #### UX Researcher
 ##### Jun 2017 - Sep 2017
 
-I worked on a contract basis for [Outlandish](https://outlandish.com/) researching application ideas for, and diagnosing the growth potential of, a young network of digital co-operatives called the [Cooperative Technologists](https://www.coops.tech/). My accomplishments included:
-
-- Showing initiative in preparing and conducting my own research plan to meet the needs of the brief utilising secondary research, observation, interviewing, surveying and usability testing methods.
-- Demonstrating strong mediation, empathy, and synthesis skills in identifying and fairly representing key needs and problem areas in the network from data across 25 different organisations.
-- [Reporting my findings](https://docs.google.com/document/d/1s6NEu8lrcT7F0OhfSErQJImlAqA9ekJf8YoPzi20FV8/edit) at the planning meeting for the network's Annual General Meeting. My recommendations were well received and I have since been invited to have a speaking slot at the AGM in November.
+* Researched applications ideas, diagnosed the growth potential, and provided
+strategic guidance to a young network of digital cooperatives called CoTech.
+* Prepared and conducted my own research plan utilising secondary research,
+contextual enquiries, interviewing, surveying and usability testing methods.
+* Demonstrated negotiation, empathy and synthesis skills in identifying key needs and
+problem areas from data across 30 different organisations.
+* Reported my findings at the planning meeting for the network’s Annual General
+Meeting and attended the AGM to represent my insights.
 
 ### Founders & Coders
 #### Course Facilitator
 ##### Nov 2016 - Jun 2017
 
-I took on a community leadership role overseeing the curriculum for the [Founders & Coders](https://foundersandcoders.com/) web development campus in London. My responsibilities included:
-
-- Co-authored, maintained, and main contributor to the community's open-source [master resource](https://github.com/foundersandcoders/master-reference), now its most popular resource and used to build campuses in Nazareth & Gaza.
-- Steering the organisation towards a user-centred, validated learning approach to updating its curriculum. This included iteratively facilitating curriculum planning, negotiating the feedback of staff, mentors, and students.
-- Facilitating weekly agile ceremonies with students & mentors, including standups, retrospectives and demos.
-- Supporting mentors & provided pastoral care for students and working with mentors and staff to re-design the second half of the programme. As a part of this, I co-created and ran a UX Design Sprint week - taking students through design thinking, user research, ideation, rapid prototyping, and usability testing - with the resident designers that can be found [here](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/weeks-10-12/design-sprint).
+* Community leadership and business development role overseeing a 4 month fullstack
+javascript bootcamp.
+* Co-authored, maintained, and main contributor to the community’s open-source
+master documentation, used to build campuses in Nazareth & Gaza.
+* Learned service design and community-building through designing and implementing
+a user-centred, validated learning approach to curriculum planning.
+* Facilitated curriculum planning and weekly agile ceremonies with mentors & students.
+Provided support to mentors & pastoral care to students.
+* Worked with mentors and staff to re-design second half of the programme. Cocreated
+and maintain a UX Design Sprint week taking students through design
+thinking, user research, rapid prototyping, and usability testing.
 
 #### Full Stack Javascript Developer 
 ##### Aug 2016 - Jun 2017
 
-I have worked on MVPs, Prototypes, and Web Applications using the technologies outlined below. Clients I have worked for include: [CAST](http://www.wearecast.org.uk/), [SaferTogether](http://safertogether.org.uk/), [Worthwhile](http://www.worthwhile.org.uk/), [Downing LLP](https://www.downingcrowd.co.uk/) & the [Anna Freud Centre](http://www.annafreud.org/).
-
-- I helped facilitate multiple Google Ventures Design Sprints for CAST's 2016 [Digital Fellowship programme](http://www.wearecast.org.uk/files/CASTDigitalFellowship-2017informationpack.pdf), as well as for the NHS, and the Anna Freud Centre.
-- I have facilitated the Anna Freud Centre's regular hackathons, run training workshops on design thinking, and acted as scrum-master for their MVPs. Responsibilities included managing communications with the product owners, guiding them through usability testing, and ensuring agile practices were followed.
+* Worked on Web Applications, MVPs and Prototypes for: CAST, SaferTogether,
+Worthwhile, Downing LLP & the Anna Freud Centre.
+* Facilitated design sprints for CAST’s 2016 Digital Fellowship programme, as well as
+for the NHS, and the Anna Freud Centre.
+* Facilitated Anna Freud Centre’s regular hackathons, acted as Scrum-master for their
+MVPs, and ran training workshops on design thinking. 
 
 ---
 
 ## SKILLS
 
-I am a natural empath and mediator which enables me to find root problems in systems and experiences, understand the needs of context and multiple stakeholders and collaborate to agree strategies to address them. My core skill-set is immersive research, a continuous learning mindset, and strong communication & presentation skills. I have experience working with the following and quickly learn new tools and skills:
+**Web Development:** HTML5, CSS3, Responsive Web Design, Web Accessibility, Javascript, Node.js, SQL, Git, Linux CL (see [LinkedIn](https://www.linkedin.com/in/bradley-reeder-246623119/) for more).
 
-**Web Development:** HTML5, CSS3, Javascript, Node.js, SQL, Git, Linux CL (see [LinkedIn](https://www.linkedin.com/in/bradley-reeder-246623119/) for more).
+**Methodologies:** Design Thinking, User-centred Design, Scrum, Peer-led Education.
 
-**Methodologies:** Design Thinking, User-centred Design, Scrum (Agile).
+**User Research:** Design sprints, Ideation sessions, Workshops, Facilitation, Usability Testing, User & Stakeholder Interviews, Surveys, Contextual inquiries, Pop-up research, Secondary research.
 
-**User Research:** Design sprints, Ideation sessions, Workshops, Facilitation, Usability testing, Interviews, Surveys, Contextual inquiries, Pop-up research, Secondary research.
+**Solution Design:** Affinity diagramming, Storyboards, Empathy maps, Personas, POV statements & How might we’s, User Journeys & Stories, Rapid Prototyping, Wireframes.
 
-**Solution Design:** Affinity sorting, Storyboards, Empathy maps, Personas, POV statements & How might we’s, User Journeys, Rapid Prototyping.
-
-**Software:** Figma, Invision, Survey Monkey, Google Analytics, Google Docs.
+**Software:** Figma, Invision, Survey Monkey, Usability Hub, Google Analytics, Google Docs, Microsoft Office.
 
 ---
 
