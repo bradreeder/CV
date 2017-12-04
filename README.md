@@ -1,5 +1,5 @@
 # Bradley Reeder - UX Researcher
-[LinkedIn](https://uk.linkedin.com/in/bradley-reeder-246623119) | [bradjohnreeder@gmail.com](mailto:bradjohnreeder@gmail.com) | [Github](https://github.com/bradreeder) | +44 7479 507365
+[LinkedIn](https://uk.linkedin.com/in/bradley-reeder-246623119) | [bradjohnreeder@gmail.com](mailto:bradjohnreeder@gmail.com) | [Github](https://github.com/bradreeder)
 
 I am a **UX professional** with multidisciplinary experience across **web development**, **user
 research**, **facilitation** and **teaching**. I value continuous learning, collaborative working,
@@ -15,7 +15,7 @@ Design with likeminded people.
 ##### Jun 2017 - Sep 2017
 
 * Researched applications ideas, diagnosed the growth potential, and provided
-strategic guidance to a young network of digital cooperatives called CoTech.
+strategic guidance to a young network of digital cooperatives called [CoTech](https://www.coops.tech/).
 * Prepared and conducted my own research plan utilising secondary research,
 contextual enquiries, interviewing, surveying and usability testing methods.
 * Demonstrated negotiation, empathy and synthesis skills in identifying key needs and
@@ -42,9 +42,9 @@ thinking, user research, rapid prototyping, and usability testing.
 #### Full Stack Javascript Developer 
 ##### Aug 2016 - Jun 2017
 
-* Worked on Web Applications, MVPs and Prototypes for: CAST, SaferTogether,
-Worthwhile, Downing LLP & the Anna Freud Centre.
-* Facilitated design sprints for CAST’s 2016 Digital Fellowship programme, as well as
+* Worked on Web Applications, MVPs and Prototypes for: [CAST](https://www.wearecast.org.uk/), [SaferTogether](http://safertogether.org.uk/),
+[Worthwhile](http://www.worthwhile.org.uk/), [Downing LLP](https://www.downing.co.uk/) & the [Anna Freud Centre](http://www.annafreud.org/).
+* Facilitated design sprints for CAST’s [2016 Digital Fellowship programme](http://www.wearecast.org.uk/fuse), as well as
 for the NHS, and the Anna Freud Centre.
 * Facilitated Anna Freud Centre’s regular hackathons, acted as Scrum-master for their
 MVPs, and ran training workshops on design thinking. 
