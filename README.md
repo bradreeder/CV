@@ -91,8 +91,6 @@ for the NHS, and the Anna Freud Centre.
 - Presented original research at [Comics Forum](https://comicsforum.org/), the UK's leading academic conference in Comics Studies. 
 - Enjoy creative writing & storytelling, and in my spare time am keen to explore the medium using Web & AR technologies. I am currently writing my first graphic novel.
 
-I am a life-long learner with broad interests and have gained work experience in different environments to fund my studies.
-
 ---
 
 ## REFERENCES
