@@ -1,8 +1,7 @@
-# Bradley Reeder - UX Researcher
-[LinkedIn](https://uk.linkedin.com/in/bradley-reeder-246623119) | [bradjohnreeder@gmail.com](mailto:bradjohnreeder@gmail.com) | [Github](https://github.com/bradreeder)
+# Bradley Reeder - Front-end Development & UX Professional
+[LinkedIn](https://uk.linkedin.com/in/bradley-reeder-246623119) | [bradjohnreeder@gmail.com](mailto:bradjohnreeder@gmail.com) | [Github](https://github.com/bradreeder) | [Portfolio](https://bradreeder.github.io/)
 
-I am a **UX professional** with multidisciplinary experience across **web development**, **user
-research**, **facilitation** and **teaching**. I value continuous learning, collaborative working,
+I am a **Front-end Development** and **UX professional** with multidisciplinary experience across **web development**, **user research**, **project management** and **facilitation**. I value continuous learning, collaborative working,
 and user-centred environments and aspire to explore all aspects of UX and Service
 Design with likeminded people.
 
@@ -27,27 +26,20 @@ Meeting and attended the AGM to represent my insights.
 #### Course Facilitator
 ##### Nov 2016 - Jun 2017
 
-* Community leadership and business development role overseeing a 4 month fullstack
-javascript bootcamp.
-* Co-authored, maintained, and main contributor to the community’s open-source
-master documentation, used to build campuses in Nazareth & Gaza.
-* Learned service design and community-building through designing and implementing
-a user-centred, validated learning approach to curriculum planning.
-* Facilitated curriculum planning and weekly agile ceremonies with mentors & students.
-Provided support to mentors & pastoral care to students.
-* Worked with mentors and staff to re-design second half of the programme. Cocreated
-and maintain a UX Design Sprint week taking students through design
-thinking, user research, rapid prototyping, and usability testing.
+* Leadership and business development role facilitating the programme of one of London’s leading web development bootcamps.
+* Co-authored, maintained, and main contributor to the community’s open-source curriculum, used to build campuses in Nazareth & Gaza.
+* Innovated the service design of curriculum planning and internal processes, taking a user-centred, validated learning approach.
+* Co-designed and delivered weeks on node.js, back-end frameworks, and UX design sprints covering design thinking, user research, rapid prototyping and usability testing.
+* Facilitated curriculum planning and weekly agile ceremonies with mentors & students. Provided support to mentors & pastoral care to students.
 
 #### Full Stack Javascript Developer 
 ##### Aug 2016 - Jun 2017
 
-* Worked on Web Applications, MVPs and Prototypes for: [CAST](https://www.wearecast.org.uk/), [SaferTogether](http://safertogether.org.uk/),
+* Built Web Applications, MVPs and Prototypes in a start-up agency environment for: [CAST](https://www.wearecast.org.uk/), [SaferTogether](http://safertogether.org.uk/),
 [Worthwhile](http://www.worthwhile.org.uk/), [Downing LLP](https://www.downing.co.uk/) & the [Anna Freud Centre](http://www.annafreud.org/).
 * Facilitated design sprints for CAST’s [2016 Digital Fellowship programme](http://www.wearecast.org.uk/fuse), as well as
 for the NHS, and the Anna Freud Centre.
-* Facilitated Anna Freud Centre’s regular hackathons, acted as Scrum-master for their
-MVPs, and ran training workshops on design thinking. 
+* Active in the mental health digital sector by facilitating regular hackathons, building and project managing resulting MVPs and running training workshops on design thinking for the Anna Freud Centre. 
 
 ---
 
@@ -105,4 +97,4 @@ I am a life-long learner with broad interests and have gained work experience in
 
 ## REFERENCES
 
-References available upon request.
+I have gained work experience in different temporary administrative roles to fund my travelling and transition into software development. References available upon request.
