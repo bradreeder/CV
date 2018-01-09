@@ -11,6 +11,8 @@
 | Markdown  | Materialize          |           | Handlebars   |                            | Usability Testing |
 | SQL       | Angular.js                     |           |  Figma + InVision            |    | Pair Programming |
 
+---
+
 ## Client Projects
 
 ### Downing LLP ([Website](https://www.downing.co.uk/))
