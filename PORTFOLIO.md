@@ -86,3 +86,47 @@ We built a risk assessment survey targeted at victims of domestic abuse. As a pr
 </p>
 
 ---
+
+## Personal Projects
+
+### Professional Portfolio ([Website](https://bradreeder.github.io/) | [Source Code](https://github.com/bradreeder/bradreeder.github.io))
+
+My personal website hosting my User Experience portfolio. The website was built as a single-page application using react.js and is accessible and responsive across browsers and devices.
+
+**Tech Stack:** HTML5, CSS3, SASS, Javascript (ES6), React.js, Webpack, Github Pages 
+
+---
+
+### Tile Game ([Website](https://evening-reef-36937.herokuapp.com/) | [Source Code](https://github.com/bradreeder/Tile-game))
+
+A recreation of some of the puzzles from the popular video game franchise [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda). Used to learn TDD (with Tape & TravisCI) and the Module design pattern. 
+
+Use the directional arrows on your keyboard to play and enter to refresh the game. The aim is to traverse every purple tile on the board without stepping on the same tile twice. There are multiple levels that increase in difficulty.
+
+**Tech Stack:** HTML5, CSS3, Javascript (ES5), Node.js, Tape, TravisCI, Istanbul, CodeCov, Heroku
+
+---
+
+*Note: The following projects were built in 2-3 days, as learning exercises to implement studied technologies, and not with the intent of building commercial products. These projects were built in teams of 2 or 4 people (using pair programming), and so include other people's work.*
+
+### Autocomplete ([Website](https://mighty-refuge-83559.herokuapp.com/public/origami.html) | [Source Code](https://github.com/FloatingIntegers/autocomplete-app))
+
+An autocomplete application that returns the closest 10 word matches of a string entered into a form input field and updates as you type. The origami animations are implemented using a css library called [OriDomi](http://oridomi.com/).
+
+**Tech Stack:** HTML5, CSS3, Javascript (ES5/6), Node.js, Tape, TravisCI, Istanbul, CodeCov, eslint, Heroku
+
+--- 
+
+### Twitterish ([Website](https://hidden-forest-53528.herokuapp.com/) | [Source Code](https://github.com/FloatingIntegers/twitterish))
+
+A twitter-like dashboard for sharing thoughts in under 140 characters. The source code for another version of this project, including session management with cookies and postgreSQL as database, can be found [here](https://github.com/FloatingIntegers/twitterish2.0).
+
+**Tech Stack**: HTML5, CSS3, Javascript (ES5/6), Node.js, Karma, Tape, Redis, Socket.io, PostgreSQL, Heroku
+
+---
+
+### CMS ([Source Code](https://github.com/Hapi-Hapi-Joy-Joy/CMS))
+
+A basic content management system for posting and retrieving blog posts using hapi.js as a backend framework and PostgreSQL as a database. Also used this project to learn the stylesheet language Sass.
+
+**Tech Stack**: HTML5, CSS3, SASS, Javascript (ES5/6), Node.js, Hapi.js, PostgreSQL, Tape
