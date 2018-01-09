@@ -6,9 +6,9 @@
 |:---------:|:--------------------:|:---------:|:------------:|:--------------------------:|:-------------------------:|
 | Javascript| Hapi.js (REST APIs)              | Tape/Tap  | Git/ Github  | PostgreSQL                 | Agile |
 | Node.js   | React.js             | QUnit     | Linux CL     | Redis                      | UCD |
-| HTML5     | jQuery               | Jasmine   | npm          | App Cache/ Service Workers | Acccessibility |
+| HTML5     | jQuery               | Jasmine   | npm          | Service Workers | Acccessibility |
 | CSS3, Sass| Bootstrap            | TravisCI  | Heroku       |                            | TDD |
-| Markdown  | Materialize          |           | Handlebars   |                            | Usability Testing |
+| Markdown  | Materialize          |           | Handlebars   |                            | User Tests |
 | SQL       | Angular.js                     |           |  Figma + InVision            |    | Pair Programming |
 
 ---
