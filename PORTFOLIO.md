@@ -36,9 +36,9 @@ I facilitated hackathons, design sprints, usability testing, and training worksh
 As a part of this, I scrum-mastered the agile process for their products **Grow** ([Website](https://growgoals.co.uk/login) | [Source Code](https://github.com/CYPIAPT-LNDSE/goals-app)) and **Getting to Know You** ([Website](https://welcome-in.herokuapp.com/) | [Source Code](https://github.com/CYPIAPT-LNDSE/welcome-to-camhs)) and developed their product Breathe With Me.
 
 <p float="left">
-  <img src="snapshots/anna-freud-hackathon.JPG" height="400"/>
-  <img src="snapshots/grow.PNG" height="400"/>
-  <img src="snapshots/getting-to-know-you.PNG" height="400"/>
+  <img src="snapshots/anna-freud-hackathon.JPG" width="425"/>
+  <img src="snapshots/grow.PNG" width="425" height="245"/>
+  <img src="snapshots/getting-to-know-you.PNG" width="425"/>
 </p>
 
 ### Breathe With Me ([Website](https://breathewithme.co.uk/) | [Source Code](https://github.com/CYPIAPT-LNDSE/Breathe-With-Me))
@@ -52,9 +52,9 @@ The app originated from a design sprint we facilitated and we regularly usabilit
 **Co-Developers:** [Sofia Pohjalainen](https://github.com/sofiapoh) | [Noga Inbar](https://github.com/nogainbar) | [Kara de la Marck](https://github.com/MarckK) | [Gabriel Perales](https://github.com/gabrielperales)
 
 <p float="left">
-  <img src="snapshots/breathe-with-me.PNG" height="400"/>
-  <img src="snapshots/breathing-avatar.PNG" height="400"/>
-  <img src="snapshots/well-done.PNG" height="400"/>
+  <img src="snapshots/breathe-with-me.PNG" height="380"/>
+  <img src="snapshots/breathing-avatar.PNG" height="380"/>
+  <img src="snapshots/well-done.PNG" height="380"/>
 </p>
 
 ---
@@ -81,8 +81,8 @@ We built a risk assessment survey targeted at victims of domestic abuse. As a pr
 
 <p float="left">
   <img src="snapshots/cast.JPG" height="400"/>
-  <img src="snapshots/worthwhile.PNG" height="400"/>
-  <img src="snapshots/safer-together.PNG" height="400"/>
+  <img src="snapshots/worthwhile.PNG" width="540"/>
+  <img src="snapshots/safer-together.PNG" width="540"/>
 </p>
 
 ---
