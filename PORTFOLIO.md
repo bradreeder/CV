@@ -82,7 +82,7 @@ We built a risk assessment survey targeted at victims of domestic abuse. As a pr
 <p float="left">
   <img src="snapshots/worthwhile.PNG" width="425"/>
   <img src="snapshots/safer-together.PNG" width="425"/>
-  <img src="snapshots/cast.JPG" height="400"/>
+  <img src="snapshots/cast.JPG" width="425"/>
 </p>
 
 ---
