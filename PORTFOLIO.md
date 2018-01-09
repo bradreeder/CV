@@ -23,13 +23,23 @@ I worked with Downing LLP as a front-end (UI) developer on a contract basis. My 
 
 **Co-Developers:** Downing LLP's Engineering Team
 
+<p float="left">
+  <img src="snapshots/downing-llp.PNG" height="400"/>
+</p>
+
 ---
 
 ### Anna Freud Centre
 
-I facilitated hackathons, design sprints, usability testing, and training workshops on agile and design thinking methodologies for the Anna Freud Centre - a charity that provides support & training for child mental health services. 
+I facilitated hackathons, design sprints, usability testing, and training workshops on agile and design thinking methodologies for the Anna Freud Centre - a charity that provides support & training for child mental health services.
 
 As a part of this, I scrum-mastered the agile process for their products **Grow** ([Website](https://growgoals.co.uk/login) | [Source Code](https://github.com/CYPIAPT-LNDSE/goals-app)) and **Getting to Know You** ([Website](https://welcome-in.herokuapp.com/) | [Source Code](https://github.com/CYPIAPT-LNDSE/welcome-to-camhs)) and developed their product Breathe With Me.
+
+<p float="left">
+  <img src="snapshots/anna-freud-hackathon.JPG" height="400"/>
+  <img src="snapshots/grow.PNG" height="400"/>
+  <img src="snapshots/getting-to-know-you.PNG" height="400"/>
+</p>
 
 ### Breathe With Me ([Website](https://breathewithme.co.uk/) | [Source Code](https://github.com/CYPIAPT-LNDSE/Breathe-With-Me))
 
@@ -40,6 +50,12 @@ The app originated from a design sprint we facilitated and we regularly usabilit
 **Tech Stack**: HTML5, CSS3, SASS, SVG, Javasript (ES6), Greensock.js, Service Workers (PWA), App Cache, Web Pack
 
 **Co-Developers:** [Sofia Pohjalainen](https://github.com/sofiapoh) | [Noga Inbar](https://github.com/nogainbar) | [Kara de la Marck](https://github.com/MarckK) | [Gabriel Perales](https://github.com/gabrielperales)
+
+<p float="left">
+  <img src="snapshots/breathe-with-me.PNG" height="400"/>
+  <img src="snapshots/breathing-avatar.PNG" height="400"/>
+  <img src="snapshots/well-done.PNG" height="400"/>
+</p>
 
 ---
 
@@ -62,5 +78,11 @@ We built a risk assessment survey targeted at victims of domestic abuse. As a pr
 **Tech Stack**: HTML5, CSS3, Javascript (ES5), Materialize
 
 **Co-Developers**: [Sofia Pohjalainen](https://github.com/sofiapoh)
+
+<p float="left">
+  <img src="snapshots/cast.JPG" height="400"/>
+  <img src="snapshots/worthwhile.PNG" height="400"/>
+  <img src="snapshots/safer-together.PNG" height="400"/>
+</p>
 
 ---
