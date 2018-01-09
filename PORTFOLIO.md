@@ -33,7 +33,7 @@ I worked with Downing LLP as a front-end (UI) developer on a contract basis. My 
 
 I facilitated hackathons, design sprints, usability testing, and training workshops on agile and design thinking methodologies for the Anna Freud Centre - a charity that provides support & training for child mental health services.
 
-As a part of this, I scrum-mastered the agile process for their products **Grow** ([Website](https://growgoals.co.uk/login) | [Source Code](https://github.com/CYPIAPT-LNDSE/goals-app)) and **Getting to Know You** ([Website](https://welcome-in.herokuapp.com/) | [Source Code](https://github.com/CYPIAPT-LNDSE/welcome-to-camhs)) and developed their product Breathe With Me.
+As a part of this, I scrum-mastered the agile process for their products **Grow** ([Website](https://growgoals.co.uk/login) | [Source Code](https://github.com/CYPIAPT-LNDSE/goals-app)) and **Getting to Know You** ([Website](https://welcome-in.herokuapp.com/) | [Source Code](https://github.com/CYPIAPT-LNDSE/welcome-to-camhs)) and developed their product **Breathe With Me**.
 
 <p float="left">
   <img src="snapshots/anna-freud-hackathon.JPG" width="425"/>
