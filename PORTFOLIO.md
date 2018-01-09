@@ -96,7 +96,7 @@ My personal website hosting my User Experience portfolio. The website was built 
 **Tech Stack:** HTML5, CSS3, SASS, Javascript (ES6), React.js, Webpack, Github Pages
 
 <p float="left">
-  <img src="snapshots/portfolio.PNG" width="425"/>
+  <img src="snapshots/portfolio.PNG" width="540"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@ Use the directional arrows on your keyboard to play and enter to refresh the gam
 **Tech Stack:** HTML5, CSS3, Javascript (ES5), Node.js, Tape, TravisCI, Istanbul, CodeCov, Heroku
 
 <p float="left">
-  <img src="snapshots/tile-game.PNG" width="425"/>
+  <img src="snapshots/tile-game.PNG" width="540"/>
 </p>
 
 ---
@@ -124,7 +124,7 @@ An autocomplete application that returns the closest 10 word matches of a string
 **Tech Stack:** HTML5, CSS3, Javascript (ES5/6), Node.js, Tape, TravisCI, Istanbul, CodeCov, eslint, Heroku
 
 <p float="left">
-  <img src="snapshots/autocomplete.PNG" width="425"/>
+  <img src="snapshots/autocomplete.PNG" width="540"/>
 </p>
 
 ---
@@ -136,7 +136,7 @@ A twitter-like dashboard for sharing thoughts in under 140 characters. The sourc
 **Tech Stack**: HTML5, CSS3, Javascript (ES5/6), Node.js, Karma, Tape, Redis, Socket.io, PostgreSQL, Heroku
 
 <p float="left">
-  <img src="snapshots/twitterish.PNG" width="425"/>
+  <img src="snapshots/twitterish.PNG" width="540"/>
 </p>
 
 ---
@@ -148,7 +148,7 @@ A basic content management system for posting and retrieving blog posts using ha
 **Tech Stack**: HTML5, CSS3, SASS, Javascript (ES5/6), Node.js, Hapi.js, PostgreSQL, Tape
 
 <p float="left">
-  <img src="snapshots/cms.PNG" width="425"/>
+  <img src="snapshots/cms.PNG" width="540"/>
 </p>
 
 ---
