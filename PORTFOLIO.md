@@ -80,9 +80,9 @@ We built a risk assessment survey targeted at victims of domestic abuse. As a pr
 **Co-Developers**: [Sofia Pohjalainen](https://github.com/sofiapoh)
 
 <p float="left">
+  <img src="snapshots/worthwhile.PNG" width="425"/>
+  <img src="snapshots/safer-together.PNG" width="425"/>
   <img src="snapshots/cast.JPG" height="400"/>
-  <img src="snapshots/worthwhile.PNG" width="540"/>
-  <img src="snapshots/safer-together.PNG" width="540"/>
 </p>
 
 ---
