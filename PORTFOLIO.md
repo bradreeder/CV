@@ -5,9 +5,9 @@
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases                  | Methodologies |
 |:---------:|:--------------------:|:---------:|:------------:|:--------------------------:|:-------------------------:|
 | Javascript| Hapi.js (REST APIs)              | Tape/Tap  | Git/ Github  | PostgreSQL                 | Agile |
-| Node.js   | React.js             | QUnit     | Linux CL     | Redis                      | User-Centered Design |
-| HTML5     | jQuery               | Jasmine   | npm          | App Cache/ Service Workers | Web Acccessibility |
-| CSS3, Sass| Bootstrap            | TravisCI  | Heroku       |                            | Test-driven Development |
+| Node.js   | React.js             | QUnit     | Linux CL     | Redis                      | UCD |
+| HTML5     | jQuery               | Jasmine   | npm          | App Cache/ Service Workers | Acccessibility |
+| CSS3, Sass| Bootstrap            | TravisCI  | Heroku       |                            | TDD |
 | Markdown  | Materialize          |           | Handlebars   |                            | Usability Testing |
 | SQL       | Angular.js                     |           |  Figma + InVision            |    | Pair Programming |
 
