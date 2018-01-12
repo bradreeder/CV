@@ -89,7 +89,7 @@ We built a risk assessment survey targeted at victims of domestic abuse. As a pr
 
 ## Client Workshops
 
-I have experience facilitating and delivering a 4 month web development programme for Founders & Coders. As a part of this, I have gained a lot of experience designing, user testing, and iteratively improving workshops:
+I have experience facilitating and delivering a 4 month web development programme for the bootcamp [Founders & Coders](https://foundersandcoders.com/). I have a lot of experience designing, user testing, and iteratively improving workshops:
 
 * [**Intro to Node**](https://github.com/foundersandcoders/Node-Intro-Workshop) -- Currently used as the introductory workshop to node.js at the Founders & Coders bootcamp.
 
