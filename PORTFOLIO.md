@@ -8,8 +8,8 @@
 | Node.js   | React.js             | QUnit     | Linux CL     | Redis                      | UCD |
 | HTML5     | jQuery               | Jasmine   | npm          | Service Workers | Acccessibility |
 | CSS3, Sass| Bootstrap            | TravisCI  | Heroku       |                            | TDD |
-| Markdown  | Materialize          |           | Handlebars   |                            | User Tests |
-| SQL       | Angular.js                     |           |  Figma + InVision            |    | Pair Programming |
+| Markdown  | Materialize          |           | Handlebars   |                            | User Testing |
+| SQL       |                      |           |  Figma + InVision            |    | Pair Programming |
 
 ---
 
@@ -87,11 +87,25 @@ We built a risk assessment survey targeted at victims of domestic abuse. As a pr
 
 ---
 
+## Client Workshops
+
+I have experience facilitating and delivering a 4 month web development programme for Founders & Coders. As a part of this, I have gained a lot of experience designing, user testing, and iteratively improving workshops:
+
+* [**Intro to Node**](https://github.com/foundersandcoders/Node-Intro-Workshop) -- Currently used as the introductory workshop to node.js at the Founders & Coders bootcamp.
+
+* [**Node Shell**](https://github.com/foundersandcoders/Node-Shell-Workshop) -- An introductory workshop to node.js and shell scripting, culminating in building a small command-line tool.
+
+* [**UX Design & Agile Methodologies**](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/weeks-10-12) -- Co-designed weeks 10-12 of the Founders & Coders bootcamp. Students take their own final project ideas through the UX Design process of user research, rapid prototyping, and usability testing and then build them following the Scrum methodology.
+
+* [**Design Sprints**](https://docs.google.com/presentation/d/1GdD6KVaRyf1VuzzSS0-LUoNITjtjr38hhbn2YeF2NO4/edit) -- Facilitated hackathons and design sprints using slidedecks such as this.
+
+* [**Design Thinking**](https://docs.google.com/presentation/d/1pXw-1476S-CM776Kh3TAlHqUmA79AS3XezpHm9BECWY/edit#slide=id.gc6f73a04f_0_0) -- Trained Anna Freud staff and young people in the design thinking methodology of inspiration, ideation, and implementation.
+
 ## Personal Projects
 
 ### Professional Portfolio ([Website](https://bradreeder.github.io/) | [Source Code](https://github.com/bradreeder/bradreeder.github.io))
 
-My personal website hosting my User Experience portfolio. The website was built as a single-page application using react.js and is accessible and responsive across browsers and devices.
+My User Experience portfolio. The website was built as a single-page application using react.js and is accessible and responsive across browsers and devices.
 
 **Tech Stack:** HTML5, CSS3, SASS, Javascript (ES6), React.js, Webpack, Github Pages
 
