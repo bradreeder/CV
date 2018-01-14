@@ -105,7 +105,7 @@ I have experience facilitating and delivering a 4 month web development programm
 
 ### Professional Portfolio ([Website](https://bradreeder.github.io/) | [Source Code](https://github.com/bradreeder/bradreeder.github.io))
 
-My User Experience portfolio. The website was built as a single-page application using react.js and is accessible and responsive across browsers and devices.
+As a contractor I have taken on a growing number of small UX Research & Service Design projects. This website was built as a single-page application using react.js as a client-facing portfolio for my UX experience. It is accessible and responsive across browsers and devices.
 
 **Tech Stack:** HTML5, CSS3, SASS, Javascript (ES6), React.js, Webpack, Github Pages
 
