@@ -103,6 +103,8 @@ I have experience facilitating and delivering a 4 month web development programm
 
 ## Personal Projects
 
+*Note: With the exception of my personal website, the following projects were built in 2-3 days, as learning exercises to implement studied technologies, and not with the intent of building commercial products. These projects were built in teams of 2 or 4 people (using pair programming), and so include other people's work.*
+
 ### Professional Portfolio ([Website](https://bradreeder.github.io/) | [Source Code](https://github.com/bradreeder/bradreeder.github.io))
 
 As a contractor I have taken on a growing number of small UX Research & Service Design projects. This website was built as a single-page application using react.js as a client-facing portfolio for my UX experience. It is accessible and responsive across browsers and devices.
@@ -128,8 +130,6 @@ Use the directional arrows on your keyboard to play and enter to refresh the gam
 </p>
 
 ---
-
-*Note: The following projects were built in 2-3 days, as learning exercises to implement studied technologies, and not with the intent of building commercial products. These projects were built in teams of 2 or 4 people (using pair programming), and so include other people's work.*
 
 ### Autocomplete ([Website](https://mighty-refuge-83559.herokuapp.com/public/origami.html) | [Source Code](https://github.com/FloatingIntegers/autocomplete-app))
 
