@@ -117,7 +117,7 @@ As a contractor I have taken on a growing number of small UX Research & Service 
 
 ### Tile Game ([Website](https://evening-reef-36937.herokuapp.com/) | [Source Code](https://github.com/bradreeder/Tile-game))
 
-A recreation of some of the puzzles from the popular video game franchise [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda). Used to learn TDD (with Tape & TravisCI) and the Module design pattern.
+A retro recreation of some of the puzzles from the popular video game franchise [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda). Used to learn TDD (with Tape & TravisCI) and the Module design pattern.
 
 Use the directional arrows on your keyboard to play and enter to refresh the game. The aim is to traverse every purple tile on the board without stepping on the same tile twice. There are multiple levels that increase in difficulty.
 
